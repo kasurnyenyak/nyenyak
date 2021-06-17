@@ -1,34 +1,20 @@
 ---
-anchor: "沿革"
-header: "沿革"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
+anchor: "Tentang Kami"
+header: "Tentang Kami"
+subheader: Berikut informasi Tentang bagaimana kami di buat"
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009年-2011年",
-    subheader: "Our Humble Beginnings",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "2021",
+    subheader: "Nyenyak",
+    content: "Nyenyak bekerja sama dengan aneka busa 
+Aneka Busa berdiri pada tahun 2006, yang berlokasi di wilayah Tangerang.
+mempunyai pabrik yaitu pabrik busa yang terpercaya kualitas dan keunggulan produknya, sehingga kami bisa menjadi agen busa dan menjadi supplier busa yang memiliki berbagai keunggulan terutama di harga, produk, dan ketepatan waktu pengiriman sehingga Anda bisa melakukan produksi tepat waktu, 
+
+Customer kami terdiri dari berbagai perusahaan mulai kelas home industri sampai kelas menengah. Terdiri dari pabrik garment, furniture, kontraktor, packaging, elektronik, sepatu, toko furniture dan berbagai macam industri lainnya."
   },
   {
-    imageFileName: "about/2.jpg",
-    header: "2011年3月",
-    subheader: "An Agency is Born",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
-  },
-  {
-    imageFileName: "about/3.jpg",
-    header: "2012年12月",
-    subheader: "Transition to Full Service",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
-  },
-  {
-    imageFileName: "about/4.jpg",
-    header: "2014年7月",
-    subheader: "Phase Two Expansion",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
-  },
-  {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
+    imageContent: "Tentang\r\nPerjalanan\r\nKami !"
   }
 ]
 ---

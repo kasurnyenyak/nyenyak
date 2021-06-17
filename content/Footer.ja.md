@@ -1,12 +1,12 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright ©PT ARETA NET INDONESIA 2021"
 social: {
   twitter: "#",
   facebook: "#",
   medium: "#"
 }
-privacyText: "プライバシー"
+privacyText: "Kebijakan Pribadi"
 privacyHref: "#!"
-termsText: "利用規約"
+termsText: "Syarat Penggunaan"
 termsHref: "#!"
 ---

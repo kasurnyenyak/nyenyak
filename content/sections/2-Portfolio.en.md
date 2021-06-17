@@ -1,7 +1,7 @@
 ---
-anchor: "Portfolio"
-header: "Portfolio"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+anchor: "Product"
+header: "Product"
+subheader: "Product Kami Antara Lain"
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",

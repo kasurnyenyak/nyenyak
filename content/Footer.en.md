@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © PT ARETA NET INDONESIA 2021"
 social: {
   twitter: "#",
   facebook: "#",

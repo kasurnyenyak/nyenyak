@@ -1,7 +1,7 @@
 ---
-anchor: "ポートフォリオ"
-header: "ポートフォリオ"
-subheader: "あなたは偶然断然その持通り"
+anchor: "Produk"
+header: "Produk"
+subheader: "Beberapa Produk Kami antara lain"
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
@@ -52,4 +52,5 @@ portfolios: [
     extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
   }
 ]
+test: "aku seo"
 ---

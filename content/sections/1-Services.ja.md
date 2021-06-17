@@ -1,22 +1,35 @@
 ---
-anchor: "サービス"
-header: "サービス"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
+anchor: "Kasur"
+header: "Kelebihan Kami"
+subheader: "Beberapa kelebihan kami antara lain"
 services: [
   {
-    iconName: "ShoppingCartIcon",
-    header: "ECサイト",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "Anti Kempes",
+    content: "Kami menawarkan kasur spring bed NYENYAK dengan busa anti kempes."
   },
   {
-    iconName: "LaptopIcon",
-    header: "レスポンシブデザイン",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "Bergaransi",
+    content: "Spring bed yang kami jual bergaransi sampai dengan 15 tahun."
   },
   {
-    iconName: "LockIcon",
-    header: "ウェブセキュリティ",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
-  }
+    header: "Bunga 0 %",
+    content: "Harga Murah bahkan bisa dicicil sampai 10 x bunga 0%. "
+  },
+  {
+    header: "Bebas Ongkir",
+    content: "Kami menawarkan bebas ongkir untuk produk Spring bed SPEQ."
+  },
+  {
+    header: "Awet dan tahan lama",
+    content: "Spring bed kami di produksi dengan kualitas terbaik, sehingga lebih awet."
+  },
+  {
+    header: "Akses ke seluruh indonesia",
+    content: "Spring bed kami dapat di kirim ke seluruh indonesia dengan cara di vaccum."
+  },
+  {
+    header: "Kenyamanan",
+    content: "Tidur dengan nyaman, nyenyak dan selalu bugar setiap hari gunakan spring bed SPEQ."
+  },
 ]
 ---

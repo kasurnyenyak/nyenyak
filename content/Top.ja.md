@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
+header: "Anda ingin tidur berkualitas ? Gunakan kasur nyenyak"
 subheader: "Welcome To Our Studio!"
-imageFileName: "header-bg.jpg"
-jumpToAnchor: "サービス"
-jumpToAnchorText: "詳しくへ"
+imageFileName: "nyenyak.png"
+jumpToAnchor: "Services"
+jumpToAnchorText: "Kunjungi"
 ---

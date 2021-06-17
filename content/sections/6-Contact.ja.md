@@ -1,7 +1,7 @@
 ---
-anchor: "コンタクト"
-header: "連絡方法"
-subheader: "次のプロジェクトを私たちに任せていただけませんか？お電話またはメールでお問い合わせください。"
+anchor: "Hubungi Kami"
+header: "Hubungi"
+subheader: "Hubungi Kami Jika Anda Ingin Memesan Produk Kami Sebelum Kehabisan."
 telephone: 03-0000-0001
-email: contact@yourwebsite.com
+email: Anekabusa9@gmail.com
 ---

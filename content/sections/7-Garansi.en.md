@@ -1,8 +1,8 @@
 ---
-anchor: "Bed"
+anchor: "Garansi"
 header: "Services"
 subheader: "Lorem ipsum dolor sit amet consectetur."
-services: [
+garansis: [
   {
     iconName: "ShoppingCartIcon",
     header: "E-Commerce",
@@ -42,9 +42,6 @@ services: [
     iconName: "LockIcon",
     header: "Web Security",
     content: "Tidur dengan nyaman, nyenyak dan selalu bugar setiap hari gunakan spring bed SPEQ."
-  },
-  
-  
-  
+  },   
 ]
 ---

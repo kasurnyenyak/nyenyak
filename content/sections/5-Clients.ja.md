@@ -1,7 +1,7 @@
 ---
 clients: [
   {
-    imageFileName: "logos/envato.jpg",
+    imageFileName: "logos",
     href: "#!"
   },
   {

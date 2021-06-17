@@ -1,13 +1,13 @@
 ---
-anchor: "Team"
-header: "Our Amazing Team"
-subheader: "Lorem ipsum dolor sit amet consectetur."
-content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+anchor: "Testimoni"
+header: "Testimonial"
+subheader: "Some of the opinions of consumers who have bought our products include. "
+content: "Our products have been trusted by many people, what are you waiting for buy now BEFORE THE PRICE INCREASES!!!"
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    header: "Sugi",
+    subheader: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
     social: {
       twitter: "#",
       facebook: "#",
@@ -17,7 +17,7 @@ teamMember: [
   {
     imageFileName: "team/2.jpg",
     header: "Larry Parker",
-    subheader: "Lead Marketer",
+    subheader: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
     social: {
       twitter: "#",
       facebook: "#",
@@ -27,7 +27,7 @@ teamMember: [
   {
     imageFileName: "team/3.jpg",
     header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    subheader: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
     social: {
       twitter: "#",
       facebook: "#",
