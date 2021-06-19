@@ -1,32 +1,19 @@
 ---
 anchor: "About"
 header: "About"
-subheader: "Tentang Kami"
+subheader: "About Me"
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009-2011",
-    subheader: "Our Humble Beginnings",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "2021",
+    subheader: "Nyenyak",
+    content: "Comfortable working with various foams
+Aneka Busa was established in 2006, which is located in the Tangerang area.
+have a factory, namely a foam factory that is trusted for the quality and superiority of its products, so that we can become a foam agent and become a foam supplier that has various advantages, especially in price, product, and on time delivery so that you can produce on time,
+
+Our customers consist of various companies ranging from home industry to middle class. Consists of garment factories, furniture, contractors, packaging, electronics, shoes, furniture stores and various other industries. "
   },
-  {
-    imageFileName: "about/2.jpg",
-    header: "March 2011",
-    subheader: "An Agency is Born",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  },
-  {
-    imageFileName: "about/3.jpg",
-    header: "December 2012",
-    subheader: "Transition to Full Service",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  },
-  {
-    imageFileName: "about/4.jpg",
-    header: "July 2014",
-    subheader: "Phase Two Expansion",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  },
+
   {
     imageContent: "Be Part\r\nOf Our\r\nStory!"
   }
