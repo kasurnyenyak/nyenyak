@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-
+// import Alasan from "views/Alasan";
 import Navbar from "views/Navbar";
 import Top from "views/Top";
 import Footer from "views/Footer";
@@ -145,6 +145,7 @@ const IndexPage = ({ data, pageContext: { langKey, defaultLang, langTextMap } })
         })
       }
       <Footer frontmatter={footerNode.frontmatter} />
+      
     </>
   );
 };

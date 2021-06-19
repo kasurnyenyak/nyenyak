@@ -1,50 +1,35 @@
 ---
 anchor: "Bed"
-header: "Services"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+header: "Our advantages"
+subheader: "Some of our advantages include"
 services: [
   {
-    iconName: "ShoppingCartIcon",
-    header: "E-Commerce",
-    content: "Kami menawarkan kasur spring bed NYENYAK dengan busa anti kempes."
+    header: "Anti-Deflate",
+    content: "We offer COOL spring bed mattresses with anti-deflating foam."
   },
   {
-    iconName: "LaptopIcon",
-    header: "Responsive Design",
-    content: "Spring bed yang kami jual bergaransi sampai dengan 15 tahun."
+    header: "Guaranteed",
+    content: "The spring bed that we sell has a warranty of up to 15 years."
   },
   {
-    iconName: "LockIcon",
-    header: "Web Security",
-    content: "Harga Murah bahkan bisa dicicil sampai 10 x bunga 0%."
-  },
-   {
-    iconName: "LockIcon",
-    header: "Web Security",
-    content: "Kami menawarkan bebas ongkir untuk produk Spring bed SPEQ."
+    header: "0% Interest%",
+    content: "Cheap prices can even be repaid up to 10 x 0% interest. "
   },
   {
-    iconName: "LockIcon",
-    header: "Web Security",
-    content: "Spring bed kami di produksi dengan kualitas terbaik, sehingga lebih awet."
+    header: "Free Shipping",
+    content: "We offer free shipping on SPEQ Spring bed products."
   },
   {
-    iconName: "LockIcon",
-    header: "Web Security",
-    content: "Spring bed kami di produksi dengan kualitas terbaik, sehingga lebih awet."
+    header: "Durable and durable",
+    content: "Our spring beds are manufactured with the highest quality, so they last longer."
   },
   {
-    iconName: "LockIcon",
-    header: "Web Security",
-    content: "Spring bed kami dapat di kirim ke seluruh indonesia dengan cara di vaccum."
+    header: "Access throughout Indonesia",
+    content: "Our spring bed can be shipped all over Indonesia by vacuum."
   },
   {
-    iconName: "LockIcon",
-    header: "Web Security",
-    content: "Tidur dengan nyaman, nyenyak dan selalu bugar setiap hari gunakan spring bed SPEQ."
+    header: "Comfort",
+    content: "Sleep comfortably, soundly and always fit every day using the SPEQ spring bed."
   },
-  
-  
-  
 ]
 ---

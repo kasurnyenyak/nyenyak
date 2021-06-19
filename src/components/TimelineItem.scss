@@ -37,7 +37,7 @@
     height: 80px;
     margin-left: 0;
     text-align: center;
-    color: white;
+    color:black;
     border: 7px solid $gray-200;
     border-radius: 100%;
     background-color: $primary;
@@ -71,7 +71,7 @@
 .timeline-heading {
   h4 {
     margin-top: 0;
-    color: inherit;
+    color:green;
     &.subheading {
       text-transform: none;
     }

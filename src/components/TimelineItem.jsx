@@ -15,8 +15,8 @@ const TimelineItem = ({
   subheader,
   content,
 }) => {
-  const headerPart = header ? <h4>{header}</h4> : null;
-  const subheaderPart = subheader ? <h4 className="subheading">{subheader}</h4> : null;
+  const headerPart = header ? <h4 variant="primary">{header}</h4> : null;
+  const subheaderPart = subheader ? <h5 variant="danger" className="subheading">{subheader}</h5> : null;
 
   const liClassName = clsx("timeline-item", { "timeline-inverted": invert });
 
@@ -32,7 +32,7 @@ const TimelineItem = ({
         )}
       </div>
       <div className="timeline-panel">
-        <div className="timeline-heading">
+        <div className="timeline-heading" >
           {headerPart}
           {subheaderPart}
         </div>
